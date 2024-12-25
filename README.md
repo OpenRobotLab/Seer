@@ -62,7 +62,7 @@ Relevant checkpoints are available on the [website](https://drive.google.com/dri
 |Real-World|[Seer (Droid Pre-trained)](https://drive.google.com/drive/folders/1rT8JKLhJGIo97jfYUm2JiFUrogOq-dgJ?usp=drive_link)|
 
 ## 📆 TODO <a name="todos"></a>
-- [x] Release real-world expriment code. 
+- [x] Release real-world experiment code. 
 - [x] Release CALVIN ABC-D experiment code (Seer).
 - [x] Release the evaluation code of Seer-Large on CALVIN ABC-D experiment.
 - [ ] Release the training code of Seer-Large on CALVIN ABC-D experiment (Reviewing the code).
